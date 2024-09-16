@@ -1,0 +1,7 @@
+lxd:/bin/false
+pollinate:/bin/false
+root:/bin/bash
+sync:/bin/sync
+tss:/bin/false
+ubuntu:/bin/bash
+vagrant:/bin/bash
