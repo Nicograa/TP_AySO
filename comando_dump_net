@@ -1,0 +1,2 @@
+tcpdump
+sudo tcpdump -i <interfaz_de_red> este es el comando basico para realizar dicha busqueda
